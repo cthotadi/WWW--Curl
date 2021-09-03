@@ -51,6 +51,7 @@ if ($^O ne 'MSWin32') {
 		/usr/local/include/curl
 		../../include
 		../curl/include
+        ../../../curl
 	);
 }
 
